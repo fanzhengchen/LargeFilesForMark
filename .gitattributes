@@ -1,0 +1,2 @@
+Monokai[[:space:]]Sublime[[:space:]]Text[[:space:]]3.jar filter=lfs diff=lfs merge=lfs -text
+*.jar filter=lfs diff=lfs merge=lfs -text
